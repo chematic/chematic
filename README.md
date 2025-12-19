@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chematic&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=e0af68" alt="Stats" />
+</p>
 
-<!--
-**chematic/chematic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chematic&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" alt="Langs" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,linux,vscode,github,discord,docker" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?user=chematic&label=VIEWS&color=7aa2f7&style=flat-square" alt="Views" />
+</p>
